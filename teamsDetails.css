@@ -1,0 +1,144 @@
+.team-heading {
+    font-size: 34px;
+    font-weight: 600;
+    text-align: center;
+    margin-top: 20px;
+}
+
+
+.team-icon {
+    text-align: center;
+}
+
+
+.team-icon img {
+    width: 40%;
+    
+}
+
+.team-details {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin-top: 20px;
+    margin-left: 10px;
+    gap: 20px;
+    text-align: center;
+}
+
+.team-details1 {
+    flex: 1;
+    width: 33.333%;
+    margin-bottom: 20px;
+    height: 90px;
+    border: 1px solid black;
+    background-color: lightgray;
+    transition: box-shadow 0.3s ease;
+    box-sizing: border-box;
+}
+
+.team-details1 span {
+    position: relative;
+    top: 25px;
+    font-size: 17px;
+    font-weight: 600;
+}
+
+.team-details1 div {
+    position: relative;
+    top: 35px;
+    font-size: 16px;
+    font-weight: 400;
+    text-transform: uppercase;
+}
+
+.team-container1 {
+    position: relative;
+    top: 250px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin-top: 20px;
+    margin-left: 10px;
+    gap: 20px;
+    text-align: center;
+}
+
+.team-container1 .player-container {
+    flex: 1;
+    width: 33.333%;
+    margin-bottom: 20px;
+    height: auto;
+    border: 1px solid black;
+    background-color: lightgray;
+    transition: box-shadow 0.3s ease;
+    box-sizing: border-box;
+}
+
+.team-container1 img {
+    width: 90%;
+    height: auto;
+}
+
+.team-container2 {
+    position: relative;
+    top: 250px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin-top: 20px;
+    margin-left: 10px;
+    gap: 20px;
+    text-align: center;
+}
+
+.team-container2 .player-container {
+    flex: 1;
+    width: 33.333%;
+    margin-bottom: 20px;
+    height: auto;
+    border: 1px solid black;
+    background-color: lightgray;
+    transition: box-shadow 0.3s ease;
+    box-sizing: border-box;
+}
+
+.team-container2 img {
+    width: 90%;
+    height: auto;
+}
+
+.team-container3 {
+    position: relative;
+    top: 250px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin-top: 20px;
+    margin-left: 10px;
+    gap: 20px;
+    text-align: center;
+}
+
+.team-container3 .player-container {
+    flex: 1;
+    width: 25%;
+    margin-bottom: 20px;
+    height: auto;
+    border: 1px solid black;
+    background-color: lightgray;
+    transition: box-shadow 0.3s ease;
+    box-sizing: border-box;
+}
+
+.team-container3 img {
+    width: 60%;
+    height: 300px;
+}
+
+
+
+
+
+
+
